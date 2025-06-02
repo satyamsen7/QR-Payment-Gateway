@@ -94,12 +94,3 @@ Paytm Merchant Account with access to API credentials
 PHP 7.x or later with cURL enabled
 
 MySQL Database (e.g., XAMPP, LAMP, etc.)
-
-🛠️ Optional Improvements
-Add checksum validation (required in production environments)
-
-Use dynamic QR generation for tracking orders
-
-Show real-time status updates using AJAX
-
-Add logs for debugging failed transactions
